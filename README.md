@@ -33,8 +33,3 @@ pip install -r requirements.txt
 
 Download the data from the [competition page](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data) into `store-sales-time-series-forecasting/`, then run `ds_experiments.ipynb`. Submissions are saved in `submissions/`.
 
-## Next
-
-- Average a few seeds
-- Hyperparameter tuning
-- Use transactions as a feature
